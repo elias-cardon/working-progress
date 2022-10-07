@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Coming soon</title>
 	<link rel="shortcut icon" type="image/x-icon" href="Logo_mini.png" />
-	<link rel="stylesheet" href="404.css">
+	<link rel="stylesheet" href="work_in_progress.css">
 </head>
 <body>
 <div id="container">
@@ -17,6 +17,6 @@
         <p>Le site est en cours de construction. Il est bientôt finit. Vous pouvez bientôt gâter vos amis à poils</p>
     </div>
 </div>
-<script src="404.js"></script>
+<script src="work_in_progress.js"></script>
 </body>
 </html>
